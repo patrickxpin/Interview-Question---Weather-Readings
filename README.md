@@ -5,9 +5,7 @@ The task was done in Python Language
 
 # Task Description
 
-Write a program to find the row with the maximum spread in the weather.dat file, where spread is defined as the difference between MxT 
-
-and MnT. For example, the spread for day 2 was (79 - 63) = 16.
+Write a program to find the row with the maximum spread in the weather.dat file, where spread is defined as the difference between MxT and MnT. For example, the spread for day 2 was (79 - 63) = 16.
 
 Your program should print the day of the month and spread to standard output
 
